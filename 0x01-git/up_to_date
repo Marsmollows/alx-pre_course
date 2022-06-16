@@ -1,0 +1,2 @@
+git fetch --all
+git checkout origin/main -- /alx-pre_course/0x01-git/README.md
